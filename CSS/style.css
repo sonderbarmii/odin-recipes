@@ -1,6 +1,7 @@
 /* index */
 
-.header {
+.header,
+.descr {
     font-size: 30px;
     color:palevioletred;
 }
@@ -8,4 +9,8 @@
 #introimg {
     width: 300px;
     height: auto;
+}
+
+.descr {
+    font-size: 25px;
 }
