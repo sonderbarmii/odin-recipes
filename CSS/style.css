@@ -1,9 +1,16 @@
 /* index */
 
 .header,
-.descr {
-    font-size: 30px;
+.descr,
+.ingr,
+.steps {
+    font-size: 25px;
     color:palevioletred;
+    font-weight: bold;
+}
+
+.header {
+    font-size: 40px;
 }
 
 #introimg {
@@ -11,6 +18,3 @@
     height: auto;
 }
 
-.descr {
-    font-size: 25px;
-}
